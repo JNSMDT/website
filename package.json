@@ -1,0 +1,40 @@
+{
+	"name": "jnschmdt",
+	"version": "0.0.0",
+	"type": "module",
+	"description": "my small personal website",
+	"repository": "git@github.com:angertitan/jnschmdt",
+	"author": "Jan Schmidt <me@jnschmdt.de>",
+	"license": "MIT",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview",
+		"check": "svelte-check --tsconfig ./tsconfig.json"
+	},
+	"devDependencies": {
+		"@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
+		"@tsconfig/svelte": "^2.0.1",
+		"@typescript-eslint/eslint-plugin": "^4.8.2",
+		"@typescript-eslint/parser": "^4.8.2",
+		"autoprefixer": "^10.4.0",
+		"eslint": "^7.14.0",
+		"eslint-config-prettier": "^6.15.0",
+		"eslint-import-resolver-typescript": "^2.3.0",
+		"eslint-plugin-import": "^2.22.1",
+		"eslint-plugin-prettier": "^3.1.4",
+		"eslint-plugin-svelte3": "^3.3.0",
+		"postcss": "^8.4.5",
+		"prettier": "^2.1.2",
+		"svelte": "^3.44.0",
+		"svelte-check": "^2.2.7",
+		"svelte-preprocess": "^4.10.1",
+		"tailwindcss": "^3.0.7",
+		"tslib": "^2.3.1",
+		"typescript": "^4.4.4",
+		"vite": "^2.7.2"
+	},
+	"peerDependencies": {
+		"postcss": "^8.4.5"
+	}
+}
