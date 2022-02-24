@@ -5,7 +5,7 @@
 <main class="h-screen w-screen bg-sky-300 flex flex-col justify-center items-center">
 	<div class="flex justify-center items-center">
 		<h1 class="text-6xl font-bold p-8">Hello I'm Jan</h1>
-		<a href="https://github.com/angertitan">
+		<a href="https://github.com/jnschmdt">
 			<i>
 				<GithubIcon class="w-12 fill-slate-800 hover:fill-slate-50" />
 			</i>
