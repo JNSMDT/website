@@ -12,8 +12,8 @@
 		</a>
 	</div>
 	<h2 class="text-3xl w-1/2 text-center">
-		I create apps, websites and tools for me, friends and family with javascript, python and in the
-		near future maybe rust.
+		I create apps, websites and tools for me, friends and family and for anybody who asks me! I use javascript, python and in the
+		near future Go and maybe Rust.
 	</h2>
 </main>
 
